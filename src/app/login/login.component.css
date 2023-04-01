@@ -1,0 +1,48 @@
+.card{
+  border:0svi;
+  width: 500px;
+  padding:40px;
+  position:fixed;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+
+
+}
+
+.card h1,
+h6{
+  color:black;
+}
+
+a{
+  color:black;
+}
+
+label{
+  color:rgb(240, 79, 15);
+}
+
+.btn {
+  font-size: 18px;
+  letter-spacing: .5px;
+  padding: 14px 35px;
+  text-transform: capitalize;
+  font-weight: 600;
+  border-radius: 0px;
+  border: 2px solid transparent;
+}
+
+.btn-main {
+  background: #fb5c42;
+  color: black !important;
+}
+
+.btn-main:hover {
+  background: black;
+  color: #fff !important;
+}
+
+
+
+

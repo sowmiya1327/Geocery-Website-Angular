@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "sowmiya",
+      "lastName": "G",
+      "email": "gm2206683@gmail.com",
+      "mobile": "+915236518",
+      "address": " No.23/B, Bazzarstreet , Tiruttani, 631204"
+    },
+    {
+      "id": 3,
+      "firstName": "sowmiya",
+      "lastName": "G",
+      "email": "gm2206683@gmail.com",
+      "mobile": "+915236518",
+      "address": " No.23/B, Bazzarstreet , Tiruttani, 631204"
+    },
+    {
+      "id": 4,
+      "firstName": "sowmiya",
+      "lastName": "G",
+      "email": "gm2206683@gmail.com",
+      "mobile": "+915236518",
+      "address": null
+    },
+    {
+      "id": 5,
+      "firstName": "Guru",
+      "lastName": "Prasath",
+      "email": "guru@gmail.com",
+      "mobile": "9952365198",
+      "address": "No.41,Main Street, madurai."
+    },
+    {
+      "id": 6,
+      "firstName": "nivi",
+      "lastName": "N",
+      "email": "nivi@gmail.com",
+      "mobile": "9078654334",
+      "address": "No.12 , kovil street, kpm"
+    },
+    {
+      "id": 7,
+      "firstName": "sowmiya",
+      "lastName": "G",
+      "email": "gm2206683@gmail.com",
+      "mobile": "+915236518",
+      "address": " No.23/B, Bazzarstreet , Tiruttani, 631204"
+    },
+    {
+      "id": 8,
+      "firstName": "sowmiya",
+      "lastName": "G",
+      "email": "gm2206683@gmail.com",
+      "mobile": "+915236518",
+      "address": " No.23/B, Bazzarstreet , Tiruttani, 631204"
+    },
+    {
+      "id": 9,
+      "firstName": "sowmiya",
+      "lastName": "G",
+      "email": "gm2206683@gmail.com",
+      "mobile": "+915236518",
+      "address": " No.23/B, Bazzarstreet , Tiruttani, 631204"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "signupUsers": [
+    {
+      "fullname": "sowmiya",
+      "email": "gm2206683@gmail.com",
+      "password": "sowmi@13",
+      "mobile": "9626589483",
+      "id": 2
+    },
+    {
+      "fullname": "nivetha",
+      "email": "nivi123@gmail.com",
+      "password": "nivi@13",
+      "mobile": 9876543210,
+      "id": 3
+    },
+    {
+      "fullname": "prasath",
+      "email": "prasath@06",
+      "password": "prasath@13",
+      "mobile": 9952365198,
+      "id": 4
+    }
+  ]
+}
